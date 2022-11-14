@@ -2,8 +2,8 @@
 
 从以下链接下载MOSI数据集，解压后将文件夹放在根目录下。
 
-链接：https://pan.baidu.com/s/1-Ok9LJQaXUEf4xxBSVEuFw 
-提取码：5ryu 
+链接：https://pan.baidu.com/s/1p7o8Nt_GUamgqZm2-NinAw
+提取码：uc7r 
 
 从以下链接下载MOSEI数据集，解压后将文件夹放在根目录下。
 
